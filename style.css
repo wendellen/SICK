@@ -1,0 +1,7 @@
+body {
+	background: radial-gradient(circle, black, white);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	transition: background 2s ease-in-out;
+}
